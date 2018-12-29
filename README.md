@@ -40,6 +40,7 @@ Machine states
 
 ## Example
 An example file can be found in `test/testMachine.tur`
+
 You can test the machine using `./turing testMachine.tur`
 
 ## License
